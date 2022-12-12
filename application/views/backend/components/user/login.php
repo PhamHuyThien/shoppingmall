@@ -159,7 +159,7 @@
                       Nhập tên tài khoản và mật khẩu để vào quản trị
                     </p>
                 <!-- Form -->
-                <form name="form1" action="admin/user/login.html" method="post" role="form" class="mb-0">
+                <form name="form1" action="admin/user/login" method="post" role="form" class="mb-0">
                 <?php if (isset($error)) : ?>
                                 <div class="error mb-3">
                                    <p> <?php echo $error; ?></p>

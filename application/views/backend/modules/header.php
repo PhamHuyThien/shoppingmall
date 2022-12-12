@@ -164,7 +164,7 @@
 
                    <hr class="dropdown-divider">
 
-                   <a class="dropdown-item"  href="admin/user/logout.html">Đăng xuất tài khoản</a>
+                   <a class="dropdown-item"  href="admin/user/logout">Đăng xuất tài khoản</a>
                </div>
            </div>
        </div>

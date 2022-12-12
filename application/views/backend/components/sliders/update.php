@@ -10,7 +10,7 @@
             </ol>
         </nav>
     </div>
-    <form action="<?php echo base_url() ?>admin/sliders/update.html" enctype="multipart/form-data" method="post" accept-charset="utf-8">
+    <form action="<?php echo base_url() ?>admin/sliders/update" enctype="multipart/form-data" method="post" accept-charset="utf-8">
         <div class="row">
             <div class="col d-flex">
                 <!-- Card -->
