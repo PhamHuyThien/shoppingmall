@@ -8,23 +8,23 @@
                             <ul class="footer-list">
                                 <li class="clearfix">
                                 <i class='bx bx-map' ></i>
-                                    <span>CN1: 396 - 398 Nguyễn Kiệm, P. 3, Q. Phú Nhuận, HCM</span>
+                                    <span>CN1: 267 Đường Quang Trung, P. Quang Trung, Q. Hà Đông, Hà Nội</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-map' ></i>
-                                    <span>CN2: 55 Chu Mạnh Trinh, P. Bình Thọ, Q. Thủ Đức, HCM</span>
+                                    <span>CN2: 543 Nguyễn Trãi, P. Thanh Xuân Nam, Q. Thanh Xuân, Hà Nội</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-map' ></i>
-                                    <span>CN3: 184/41 Nguyễn Xí, Phường 26, Q. Bình Thạnh, HCM</span>
+                                    <span>CN3: 48 Trần Duy Hưng, P. Trung Hoà, Q. Cầu Giấy, Hà Nội</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-phone' ></i>
-                                    <span>Tổng đài hỗ trợ: 0906 866 535 (8:30 - 17:30)</span>
+                                    <span>Tổng đài hỗ trợ: 094 166 1235 (8:30 - 17:30)</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-mail-send' ></i>
-                                    <span><a href="mailto:truong.vd2000@gmail.com">truong.vd2000@gmail.com</a></span>
+                                    <span><a href="mailto:thienph.dev@gmail.com">thienph.dev@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>
@@ -61,13 +61,13 @@
                     </div>
                 </div>
             </div>
-         
+
             <div class="footer-bottom">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="copy-left-text">
-                                <p>Copyright &copy; <a href="#">Võ Trường</a> 2022. All Right Reserved.</p>
+                                <p>Copyright &copy; <a href="#">Phạm Huy Thiên</a> 2024. All Right Reserved.</p>
                             </div>
                         </div>
                     </div>
